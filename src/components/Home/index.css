@@ -1,0 +1,30 @@
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.home-image {
+  height: 200px;
+}
+
+.home-heading {
+  color: #1e293b;
+  font-size: 40px;
+}
+
+.light-color {
+  color: white;
+}
+.dark-color {
+  color: #1e293b;
+}
+
+.light-background-color {
+  background-color: white;
+}
+.dark-background-color {
+  background-color: #333333;
+}
